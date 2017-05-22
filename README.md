@@ -7,7 +7,7 @@
 #git config --global user.name “iranw”  //配置变量588(用户目录-针对本用户)
 #git config --system user.name “iranw”  //配置变量(系统用户目录-针对所有用户)
 #git config --list                          //查看所有变量
-#git config user.mail                       //获取特定系统变量
+#git config user.mail                       //获取特定系统变量777
 #git help                               //获取帮助信息
 #git help config                            //获取特定帮助信息(方式1)
 #git config --help                      //获取特定帮助信息(方式2)
