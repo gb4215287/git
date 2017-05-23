@@ -2,12 +2,12 @@
 
 ###### 配置设置
 ```
-#git config user.name “iranw”           //配置变量866(本git目录-针对本目录)
+#git config user.name “iranw”           //配置变量966(本git目录-针对本目录)
 #git config user.email “wang_wenguan@yeah.net” //配置变量 
-#git config --global user.name “iranw”  //配置变量888(用户目录-针对本用户)
+#git config --global user.name “iranw”  //配置变量988(用户目录-针对本用户)
 #git config --system user.name “iranw”  //配置变量(系统用户目录-针对所有用户)
 #git config --list                          //查看所有变量
-#git config user.mail                       //获取特定系统变量888
+#git config user.mail                       //获取特定系统变量999
 #git help                               //获取帮助信息
 #git help config                            //获取特定帮助信息(方式1)
 #git config --help                      //获取特定帮助信息(方式2)
