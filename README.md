@@ -13,8 +13,8 @@
 #git config --list                          //查看所有变量
 #git config user.mail                       //获取特定系统变量999
 #git help                               //获取帮助信息
-#git help config                            //获取特定帮助信息(方式1)ZUI
-#git config --help                      //获取特定帮助信息(方式2)XIN
+#git help config                            //获取特定帮助信息(方式1)
+#git config --help                      //获取特定帮助信息(方式2)
 ```
 
 ###### 初始化
