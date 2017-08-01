@@ -1,6 +1,6 @@
 
 
-###### 配置设置
+###### 配置设置 guodegang
 ```
 
 #git config user.name “iranw”           //配置变量06699(本git目录-针对本目录)
